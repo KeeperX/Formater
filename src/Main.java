@@ -18,6 +18,9 @@ static Formatter x;
             String town = scn.next();
             System.out.printf("Мне %s лет, я живу в %s",year,town);
             x.format("Мне %s лет, я живу в %s",year,town);
+            ;
+            ;
+            ;
             x.close();
 
         }catch (Exception e){};
